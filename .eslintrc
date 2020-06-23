@@ -1,0 +1,10 @@
+{
+  "extends": "adidas-typescript",
+  "parserOptions": {
+    "tsconfigRootDir": "."
+  },
+  "rules": {
+    "valid-jsdoc": "off",
+    "@typescript-eslint/no-magic-numbers": "off"
+  }
+}

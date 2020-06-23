@@ -1,0 +1,9 @@
+.github
+test
+src
+.eslintrc
+jest.config.js
+jsconfig.json
+tsconfig.json
+*.tgz
+demo.gif
