@@ -37,6 +37,6 @@ ordinal prompt is mostly the same as [checkbox prompt](https://github.com/SBoudr
 
 ## Example
 
-You can find a running example in [demo.js](https://github.com/RecuencoJones/inquirer-ordinal-prompt/blob/master/demo.js)
+You can find a running example in [demo.js](https://github.com/RecuencoJones/inquirer-ordinal-prompt/blob/develop/demo.js)
 
 [![asciicast](./demo.gif)](https://asciinema.org/a/BAL0gV4p1PqFgcdfzc1ndd3Jk)
