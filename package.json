@@ -14,7 +14,8 @@
     "lint": "eslint --ext .ts src",
     "test": "jest --config jest.config.js",
     "predemo": "npm run build",
-    "demo": "node demo.js"
+    "demo": "node demo.js",
+    "prepack": "npm run build"
   },
   "peerDependencies": {
     "inquirer": ">= 7"
